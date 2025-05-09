@@ -1,1 +1,98 @@
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="styles.css">
+    <title>Proyecto de Estudiantes</title>
+</head>
+<body>
+    <header>
+        <h1>Bienvenidos al dia del idioma</h1>
+        <nav>
+            <ul>
+                <li><a href="#Introducción">Introducción</a></li>
+                <li><a href="#seccion1">Miguel de Cervantes</a></li>
+                <li><a href="#seccion2">Descripción</a></li>
+                <li><a href="#contacto">Contacto</a></li>
+            </ul>
+        </nav>
+    </header>
+    
+    <main>
+        <section id="Introducción" class="Introducción">
+            <h2>Introducción</h2>
+            <p> Cada 23 de abril se celebra el Día del Idioma, una fecha de gran significado que rinde homenaje a la lengua española, uno de los idiomas más hablados y estudiados en el mundo. Esta jornada no solo conmemora la riqueza lingüística y cultural del español, sino que también recuerda la importancia de preservar, valorar y promover el uso correcto de nuestra lengua materna.<br><br>
+                El Día del Idioma tiene un profundo simbolismo, ya que coincide con la muerte de Miguel de Cervantes Saavedra en 1616, autor de Don Quijote de la Mancha, una de las obras más universales de la literatura. Este acontecimiento marcó un hito en la historia del idioma y la literatura, convirtiéndose en un referente para todos los hispanohablantes. La conmemoración busca resaltar el poder del lenguaje como herramienta de comunicación, identidad y unión entre los pueblos que comparten el español.<br><br>
+                En un mundo globalizado y digital, donde la interacción es constante y la información circula a gran velocidad, el idioma se enfrenta a nuevos desafíos y transformaciones. Por ello, esta celebración es también una oportunidad para reflexionar sobre la importancia de proteger la pureza del idioma, fomentar la lectura, y adaptarse a los cambios sin perder la esencia que define nuestra identidad lingüística.<br><br>
+                El Día del Idioma invita a estudiantes, docentes, escritores, periodistas y a toda la comunidad a participar en actividades culturales, académicas y recreativas que promuevan el amor por la lengua. Concursos de escritura, recitales de poesía, charlas literarias y campañas de lectura son solo algunas de las iniciativas que se desarrollan para festejar esta fecha especial. <br><br>
+                En definitiva, el Día del Idioma es mucho más que un homenaje: es una celebración viva y dinámica que nos recuerda que el idioma es un patrimonio invaluable que debemos cuidar, enriquecer y transmitir a las nuevas generaciones.</p>
+          </section>
 
+        <section id="seccion1" class="seccion1">
+          <div class="contenido">
+            <div class="img">
+              <div class="img-inner">
+                <img src="Cervantes.jpg" alt="Miguel de Cervantes">
+              </div>
+            </div>
+            <div class="texto">
+              <h2>Miguel de Cervantes</h2>
+              <p>Miguel de Cervantes Saavedra (1547–1616) es considerado uno de los más grandes escritores de la literatura española y universal.<br>
+                Su obra cumbre, Don Quijote de la Mancha, ha trascendido fronteras y épocas, convirtiéndose en un símbolo del ingenio y la riqueza del idioma español. En el Día del Idioma, se le rinde homenaje no solo por su legado literario, sino también porque su fallecimiento, un 23 de abril, marcó la fecha elegida para esta conmemoración, destacando la importancia del idioma como puente cultural entre los pueblos hispanohablantes.</p>
+            </div>
+          </div>
+        </section>
+
+        <section id="seccion2">
+            <h2>Descripción</h2>
+            <p>Su objetivo es valorar y promover el uso correcto del idioma español.</p>
+            <table>
+                <tr>
+                    <th>Elemento</th>
+                    <th>Descripción</th>
+                </tr>
+                <tr>
+                    <td>Nombre del evento</td>
+                    <td>Dia del idioma</td>
+                </tr>
+                <tr>
+                    <td>Fecha de celebración</td>
+                    <td>23 de abril</td>
+                </tr>
+                <tr>
+                    <td>Motivo de la fecha</td>
+                    <td>Conmemora la muerte de Miguel de Cervantes Saavedra (1616),      autor de Don Quijote   </td>
+                </tr>
+                <tr>
+                    <td>Objetivo principal</td>
+                    <td>Valorar y promover el uso correcto del idioma español</td>
+                </tr>
+                <tr>
+                    <td>Ámbito de celebración</td>
+                    <td>Países hispanohablantes</td>
+                </tr>
+                <tr>
+                    <td>Actividades comunes</td>
+                    <td>Lecturas, concursos literarios, representaciones teatrales, homenajes a autores</td>
+                </tr>
+                <tr>
+                    <td>Instituciones involucradas</td>
+                    <td>Escuelas, bibliotecas, academias de la lengua, medios de comunicación</td>
+                </tr>
+                <tr>
+                    <td>Importancia cultural</td>
+                    <td>Refuerza la identidad lingüística y fomenta el amor por la lectura y escritura</td>
+                </tr>
+                <tr>
+                    <td>Lengua destacada</td>
+                    <td>Español (castellano)</td>
+                </tr>
+            </table>
+        </section>
+    </main>
+    
+    <footer id="contacto">
+        <p>Contacto: mariafontalvon@uniagustiniana.edu.co - juan.saldarriagar@uniagustiniana.edu.co</p>
+    </footer>
+</body>
+</html>
